@@ -1,7 +1,7 @@
 {
     "name": "mandsberg/suresms-php",
     "type": "library",
-    "description": "Send SMS using international SureSMS <a href=""https://www.suresms.com"">SMS gateway</a> http://www.suresms.com",
+    "description": "Send SMS using international SureSMS http://www.suresms.com",
     "keywords": ["gateway", "sms", "SureSMS"],
     "homepage": "https://github.com/Mandsberg/SureSMS-PHP",
     "license": "MIT",
