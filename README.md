@@ -11,6 +11,6 @@ Example
 ``` php
 $recipient = '12345678';
 $sender = 'SureSMS';
-$cpsms = new SureSMS('myUsername', 'myPassword'); 
-$cpsms->send("Helo world!", $recipient, $sender);
+$SureSMS = new SureSMS('myUsername', 'myPassword'); 
+$SureSMS->send("Helo world!", $recipient, $sender);
 ```
