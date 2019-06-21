@@ -1,5 +1,5 @@
 {
-    "name": "Mandsberg/SureSMS-PHP",
+    "name": "mandsberg/suresms-php",
     "type": "library",
     "description": "Send SMS using international SureSMS SMS gateway http://www.suresms.com",
     "keywords": ["gateway", "sms", "SureSMS"],
