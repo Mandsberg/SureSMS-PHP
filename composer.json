@@ -1,0 +1,20 @@
+{
+    "name": "Mandsberg/SureSMS-PHP",
+    "type": "library",
+    "description": "Send SMS using international SureSMS SMS gateway http://www.suresms.com",
+    "keywords": ["gateway", "sms", "SureSMS"],
+    "homepage": "https://github.com/Mandsberg/SureSMS-PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Glen Mandsberg",
+            "email": "glen.mandsberg@suresms.com"
+        }
+    ],
+   "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["lib/"]
+    }
+}
